@@ -57,7 +57,7 @@ I'm a Computer Engineering student passionate about software development and bui
 |---|---|
 | [Lokdham Developers](https://www.lokdham.com) | Real-estate website with a responsive interface. |
 | [Rvedi](https://www.rvedi.com) | Website redesign focused on responsiveness and usability. |
-| [Zomato Clone](https://ronit-godambe.github.io/Zomato-Clone/) | Responsive food discovery interface with interactive elements. |
+| [Zomato Clone](https://ronitgodambe.github.io/Zomato-Clone/) | Responsive food discovery interface with interactive elements. |
 
 ---
 
